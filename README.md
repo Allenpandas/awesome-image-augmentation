@@ -1,12 +1,14 @@
 # awesome-image-augmentation
 
-This library helps you with augmenting images for your machine learning projects. It converts a set of input images into a new, much larger set of slightly altered images. Many very popular projects have been integrated. New methods like augmix,cutmix，are being tracked. Whether you're a researcher or an engineer, just enjoy it!
 
-## News
 
-- 2023/12/08: I created this repository.
+## 目录
 
-## Table of Contents
+- 热门项目
+- 相关论文
+- 标注工具
+
+
 
 - [Popular Projects](#Popular-Projects)
   - [imgaug](#imgaug)
@@ -41,7 +43,7 @@ This library helps you with augmenting images for your machine learning projects
 
 ### imgaug
 
-<img align="center" src="assets/imgaug.png" width="600">
+<img align="center" src="assets/imgaug.png" width="300">
 
 
 - intro: 2019
@@ -323,25 +325,10 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 
 
 
-## Annotation Tools
+## 标注工具
 
-### labelImg
-
-<img align="center" src="assets/labelimg.jpg" width="600">
-
-- intro: 2017
-- github star: 9.8k
-- github: <https://github.com/tzutalin/labelImg>
-
-LabelImg is a graphical image annotation tool and label object bounding boxes in images.
-
-### labelme
-
-<img align="center" src="assets/labelme.jpg" width="600">
-
-- intro: 2017
-- github star: 4.2k
-- github: <https://github.com/wkentaro/labelme>
-
-Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+| 工具名称 | 网址                                                         | 工具界面                                      |
+| -------- | ------------------------------------------------------------ | --------------------------------------------- |
+| LabelImg | [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) | <img src="assets/labelimg.jpg" width="300px"> |
+| LabelMe  | [https://github.com/labelmeai/labelme](https://github.com/labelmeai/labelme) | <img src="assets/labelme.jpg" width="300px">  |
 
