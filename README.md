@@ -327,8 +327,9 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 
 ## 标注工具
 
-| 工具名称 | 网址                                                         | 工具界面                                      |
-| -------- | ------------------------------------------------------------ | --------------------------------------------- |
-| LabelImg | [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) | <img src="assets/labelimg.jpg" width="300px"> |
-| LabelMe  | [https://github.com/labelmeai/labelme](https://github.com/labelmeai/labelme) | <img src="assets/labelme.jpg" width="300px">  |
+| 工具名称  | 网址                                                         | 工具界面                                       |
+| --------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| LabelImg  | [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) | <img src="assets/labelimg.jpg" width="300px">  |
+| LabelMe   | [https://github.com/labelmeai/labelme](https://github.com/labelmeai/labelme) | <img src="assets/labelme.jpg" width="300px">   |
+| MakeSense | https://www.makesense.ai/                                    | <img src="assets/makesense.png" width="300px"> |
 
